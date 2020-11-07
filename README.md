@@ -46,18 +46,21 @@
 
   ## Usage    
 
-  You start up the app and enter in the note and title it. press save and it works perfectly.
+  It is a very straightforward and accessible application to use. When the application is launched, press the `get started` button on the splash page of the Note Taker App. 
+
+  <!-- insert picture -->
+
+  Then input the desired information that which includes the title of the note and the description of the note. Press the save icon in the top right corner of the application to save your note. If you decide that you would like to get rid of the note than you can press the delete button found on the right side of the entries. The deletion is permanent. 
+
+  <!-- insert image -->
 
   ## License    
 
-  The express is covered under the following license: ![express](https://img.shields.io/npm/l/express)
+  The Express npm is covered under the following license: ![express](https://img.shields.io/npm/l/express)
 
   ## Contributing     
 
   If you are interested in contributing to this project please adhere to the set of guidelines set forth by the [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/). If any questions about the contributor guidelines feel free to contact me at skyler.rencher@gmail.com.
-
-      
-  
 
   ## Tests    
 
@@ -69,4 +72,6 @@
   
   ## Links
 
-  * [Note-Taker-App Application](https://github.com/skycode20/Note-Taker-App)
+  * [Note-Taker-App Application](https://morning-eyrie-44899.herokuapp.com/)
+  * [Note-Taker-App Repo](https://github.com/skycode20/Note-Taker-App)
+  * [Note-Taker-App Demo Video](https://github.com/skycode20/Note-Taker-App)
