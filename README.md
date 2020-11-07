@@ -8,7 +8,7 @@
   
   ## Description    
 
-  The Note Taker App is great for business professionals that have packed schedules and need to remind themselves of information they have in mind one moment andwant to remember it for later. 
+  The Note Taker App is great for business professionals that have packed schedules and need to remind themselves of information they have in mind one moment and want to remember it for later. 
 
   ## Table Of Contents    
 
