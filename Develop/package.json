@@ -1,12 +1,13 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "Helps you create notes quickly that are stored in a database.",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
-  "author": "",
+  "author": "Skyler Rencher",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
