@@ -72,7 +72,7 @@
 
   ## Tests    
 
-  No tests were run aside from manually debugging through trial and error.
+  No tests were run aside from manually debugging through trial, error, and referring to past code.
 
   ## Questions    
 
@@ -82,4 +82,4 @@
 
   * [Note-Taker-App Application](https://morning-eyrie-44899.herokuapp.com/)
   * [Note-Taker-App Repo](https://github.com/skycode20/Note-Taker-App)
-  * [Note-Taker-App Demo Video](https://github.com/skycode20/Note-Taker-App)
+  * [Note-Taker-App Demo Video](https://drive.google.com/file/d/1Bj0vfg9vrZYIO1JnViy0LvyqvIKV_ztg/view?usp=sharing)
