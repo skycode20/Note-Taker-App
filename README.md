@@ -64,7 +64,7 @@
 
   ## License    
 
-  The Express npm is covered under the following license: ![express](https://img.shields.io/npm/l/express)
+  Express, Util, Path, Filesystem, and Node.js covered under the following licenses: ![express](https://img.shields.io/npm/l/express) ![node](https://img.shields.io/npm/l/node)
 
   ## Contributing     
 
