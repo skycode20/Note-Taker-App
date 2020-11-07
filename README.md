@@ -48,11 +48,19 @@
 
   It is a very straightforward and accessible application to use. When the application is launched, press the `get started` button on the splash page of the Note Taker App. 
 
-  <!-- insert picture -->
+  <br>    
+  <p align=center>
+    <img src="assets\splashpage.jpg" alt="picture of the splash page for the Note Taker App." width= 50% height= 50%>
+  </p>
+  <br>
 
-  Then input the desired information that which includes the title of the note and the description of the note. Press the save icon in the top right corner of the application to save your note. If you decide that you would like to get rid of the note than you can press the delete button found on the right side of the entries. The deletion is permanent. 
+  Then input the desired information that which includes the title of the note and the description of the note. Press the save icon in the top right corner of the application to save your note. If you decide that you would like to get rid of the note than you can press the delete button found on the right side of the entries. The deletion of entries is permanent. 
 
-  <!-- insert image -->
+  <br>    
+  <p align=center>
+    <img src="assets\notetaker.jpg" alt="picture of the note input page that the user puts information in.">
+  </p>
+  <br>
 
   ## License    
 
