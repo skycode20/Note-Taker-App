@@ -30,7 +30,19 @@
   
   ## Installation    
 
-  install all of the follow npms:
+  To install the **Note Taker APP** please follow these steps:
+
+  1. Download all of the project's source files `(clone the GitHub repository)`.
+  2. Ensure your terminal is inside of the current folder that contains the source files.
+  3. Install the following **NPMs** `(Node Package Managers)` in the system terminal:
+        * Node.js
+        * Express (command: ```npm i express```)
+        * FileSystem (command: ```npm i fs```)
+        * Path (command: ```npm i path```)
+        * Util (command: ```npm i util```)
+        * **Or just ```npm i``` that will install the packages within the `package.json` file.**
+
+  Once that is all installed, while the integrated terminal is inside of the folder, run the command in the CLI ```node server.js``` to run the application on the `localhost:3000` (or whichever port it is running on) and input that in the url of a browser. The application will be deployed locally with all of its functionality.
 
   ## Usage    
 
