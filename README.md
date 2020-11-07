@@ -8,7 +8,16 @@
   
   ## Description    
 
-  The Note Taker App is great for business professionals that have packed schedules and need to remind themselves of information they have in mind one moment and want to remember it for later. 
+  The Note Taker App is great for business professionals that have packed schedules and need to remind themselves of information they have in mind one moment and want to remember it for later. This is important because it allows a professional to have maximum productivity over the course of their work day without forgetting new tasks along the way. 
+
+  My inspiration behind this project was to provide a application that was easy to use for the everyday person that could be scaled up for enterprise. I can envision this application being licensed to small and big companies alike for use with each employee. The notes will be saved on a database exclusive to each employee that they alone have access to.
+
+  The main challenge with this project was getting the application to deploy on Heroku for instant access from anyone who wanted to utilize the application right away. The issue I was having with it was the fact that there was an error when engaging the deployment of the application. I couldn't figure out why the error was happening when the entire time the code worked just fine locally. But then I came to realize that all of my source code was within a folder named `Development` and that was causing an error with Heroku. Once I extracted the contents from the Development folder to the main folder, I then tried again and it worked properly. 
+
+  My aspirations for the future of this application are to expand the functionality to be able to do the following:
+  - Send reminders to the user.
+  - Enable the notes' data to be synced to the cloud and accessed anywhere.
+  - Having the ability to work natively with browsers.
 
   ## Table Of Contents    
 
